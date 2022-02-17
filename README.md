@@ -95,7 +95,7 @@
     </a>
 </div>
 
-<div style="text-align:center; margin: 15px 0;"> 
+<div align="center" style="margin: 15px 0;"> 
     <a
         href="https://github.com/vitorcarneiro" 
         alt="visitors"
@@ -112,7 +112,7 @@
     Through these years I got experience with code and eletronics.
 <hr style="margin: 15px 0;">
 
-<div style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
+<div align="center" style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
     <div style="width: 100%; display:flex; flex-wrap:wrap; justify-content: center; gap:10px;">
         <img style="width: 45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorcarneiro&theme=nord_bright" />
         <img style="width: 45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitorcarneiro&theme=nord_bright" />
