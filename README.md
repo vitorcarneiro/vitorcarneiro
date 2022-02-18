@@ -50,7 +50,7 @@
 
 ## 📫 How to reach me:
 
-<div style="width:100%; display:flex; justify-content:center; gap: 10px; margin-top:15px;">
+<div align="center "style="width:100%; display:flex; justify-content:center; gap: 10px; margin-top:15px;">
     <a
         href="https://wa.me/5541999842243?text=Hello%20Vitor,%20I%20saw%20your%20github%20profile" 
         alt="WhatsApp"
