@@ -1,7 +1,8 @@
-<h2 style="font-weight: 500; border: 0; padding: 0; border-bottom: 1px solid #FFF";>
+<h2 style="font-weight: 500; border: 0; padding: 0; border-bottom: 2px solid var(--color-border-muted);">
     Hello, I'm Vitor...
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 </h2>
+
 
 <h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
 <ul>
