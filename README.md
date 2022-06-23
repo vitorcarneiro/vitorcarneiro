@@ -140,16 +140,12 @@
 
 <hr style="margin-top: 15px;">
 
-<div style="display: flex; align-items: center; gap: 8px">
-    <div style="width: 22%">
-        <h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
-    </div>
-    <div style="width: 74%">
+<h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
+    <div style="margin-left: 50px">
         <a
             href="https://wa.me/5541999842243?text=Hello%20Vitor,%20I%20saw%20your%20github%20profile" 
             alt="WhatsApp"
             target="_blank"
-            style="margin-top: 5px"
         >
             <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 8%; height: 25px"/>
         </a>
@@ -157,7 +153,6 @@
             href="https://www.linkedin.com/in/vitor-carneiro-silva-de-oliveira" 
             alt="LinkedIn"
             target="_blank"
-            style="margin-top: 5px"
         >
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8%; height: 25px"/>
         </a>
@@ -165,7 +160,6 @@
             href="https://mail.google.com/mail/u/0/?fs=1&to=vitorcarneiro.sdo@gmail.com&su=I saw your github profile&body=Hello Vitor. My name is _______ &bcc=vitorcarneiro.sdo@gmail.com&tf=cm" 
             alt="Gmail"
             target="_blank"
-            style="margin-top: 5px"
         >
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8%; height: 25px"/>
         </a>
@@ -173,25 +167,22 @@
             href="mailto:vitorcarneiro.sdo@gmail.com" 
             alt="Outlook"
             target="_blank"
-            style="margin-top: 5px"
         >
             <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 8%; height: 25px"/>
         </a>
     </div>
-</div>
 
-<div style="display: flex; align-items: center; gap: 8px">
-    <h3 style="font-weight: 500">🔴 Status:</h3 style="font-weight: 500">
+<h3 style="font-weight: 500">🔴 Status:</h3 style="font-weight: 500">
+<div style="margin-left: 50px">
     <a
         href="https://github.com/vitorcarneiro" 
         alt="visitors"
         target="_blank"
-        style=""
     >
         <img src="https://gpvc.arturio.dev/vitorcarneiro" />
     </a>
     <a href="https://wakatime.com/@75b063fd-fc90-4981-92ec-8042466ed674">
-        <img src="https://wakatime.com/badge/user/75b063fd-fc90-4981-92ec-8042466ed674.svg" alt="Total time coded since Oct 14 2021" style=""/>
+        <img src="https://wakatime.com/badge/user/75b063fd-fc90-4981-92ec-8042466ed674.svg" alt="Total time coded since Oct 14 2021"/>
     </a>
 </div>
 
