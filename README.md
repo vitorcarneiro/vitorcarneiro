@@ -5,7 +5,7 @@
     alt="visitors"
     target="_blank"
 >
-    <img src="https://gpvc.arturio.dev/vitorcarneiro" />
+    <img src="https://gpvc.arturio.dev/vitorcarneiro" alt="profile-vi"/>
 </a>
 
 <a href="https://wakatime.com/@75b063fd-fc90-4981-92ec-8042466ed674">
@@ -28,9 +28,8 @@
             <br>
             <br>
     </samp>
+    <img src="https://i.gifer.com/Z23b.gif" alt="spotify">
 </p>
-
-<img src="https://gpvc.arturio.dev/vitorcarneiro" />
 
 <details align="center">
     <summary> <samp>&#9776; More [click here]</samp></summary>
