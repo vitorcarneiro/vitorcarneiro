@@ -4,7 +4,7 @@
     </h2>
 </div>
 
-<hr style="margin-top: 5px"/>
+<hr/>
 
 <h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
 <ul>
@@ -213,9 +213,9 @@
 <hr style="margin: 15px 0;">
 
 <div align="center" style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-    <div style="width:100%; display:flex; gap:10px">
-        <img style="width:70%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
-        <img style="width:30%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
+    <div style="width:100%; display:flex">
+        <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
+        <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
     </div>
     <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="300"></img>
 </div>
