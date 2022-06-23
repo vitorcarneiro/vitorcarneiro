@@ -18,7 +18,7 @@
             </a>
             <a href="https://www.cprogramming.com" target="_blank">
                 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="border-radius: 10px"/>
-            </a>tech
+            </a>
         </div>
     </li>
     <li>
