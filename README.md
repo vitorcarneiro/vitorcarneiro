@@ -3,8 +3,6 @@
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 </h2>
 
-<hr/>
-
 <h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
 <ul>
     <li>
