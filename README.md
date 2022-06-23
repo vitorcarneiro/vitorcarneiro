@@ -43,7 +43,6 @@
         </div>
     </div>
 </details>
-<br>
 
 <hr/>
 
