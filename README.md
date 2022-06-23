@@ -195,7 +195,7 @@
             ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
         </li>
         <li>
-            ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
+            ➡️ For start my path as Software Engineer I needed to look for something that could help me on this long way, then I found Driven, the name explains itself, they guided me into my goal and taught me a lot.
         </li>
     </ul>
 </div>
