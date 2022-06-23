@@ -1,4 +1,7 @@
-<h2 style="font-weight: 500; margin-right: 10px" >Hello, I'm Vitor...
+<h2 style="font-weight: 500; margin-right: 10px">
+    <p>
+        Hello, I'm Vitor...
+    </p>
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 </h2>
 
