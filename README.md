@@ -1,7 +1,51 @@
-<h2 style="font-weight: 500">
-    Hello, I'm Vitor...
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
-</h2>
+
+<hr/>
+<a
+    href="https://github.com/vitorcarneiro" 
+    alt="visitors"
+    target="_blank"
+>
+    <img src="https://gpvc.arturio.dev/vitorcarneiro" />
+</a>
+
+<a href="https://wakatime.com/@75b063fd-fc90-4981-92ec-8042466ed674">
+    <img src="https://wakatime.com/badge/user/75b063fd-fc90-4981-92ec-8042466ed674.svg" alt="Total time coded since Oct 14 2021"/>
+</a>
+
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/vitor-csdo/">Vitor Carneiro</a>
+                <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
+                </b>
+        </samp>
+</h3>
+
+<br>
+
+<details align="center">
+    <summary> <samp>&#9776; More</samp></summary>
+    <div align="left">
+        <h3 style="font-weight: 500">👨‍💻 About me:</h3 style="font-weight: 500">
+        <ul>
+            <li>
+                ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
+            </li>
+            <li>
+                ➡️ For start my path as Software Engineer I needed to look for something that could help me on this long way, then I found Driven, the name explains itself, they guided me into my goal and taught me a lot.
+            </li>
+        </ul>
+    </div>
+    <hr/>
+    <div style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
+        <div style="width:100%; display:flex">
+            <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
+            <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
+        </div>
+    </div>
+</details>
+<br>
+
+<hr/>
 
 <h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
 <ul>
@@ -150,7 +194,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 8%; height: 25px"/>
 </a>
 <a
-    href="https://www.linkedin.com/in/vitor-carneiro-silva-de-oliveira" 
+    href="https://www.linkedin.com/in/vitor-csdo/" 
     alt="LinkedIn"
     target="_blank"
 >
@@ -170,42 +214,3 @@
 >
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 8%; height: 25px"/>
 </a>
-
-<h3 style="font-weight: 500">🔴 Status:</h3 style="font-weight: 500">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a
-    href="https://github.com/vitorcarneiro" 
-    alt="visitors"
-    target="_blank"
->
-    <img src="https://gpvc.arturio.dev/vitorcarneiro" />
-</a>
-<a href="https://wakatime.com/@75b063fd-fc90-4981-92ec-8042466ed674">
-    <img src="https://wakatime.com/badge/user/75b063fd-fc90-4981-92ec-8042466ed674.svg" alt="Total time coded since Oct 14 2021"/>
-</a>
-
-<hr/>
-
-<div>
-    <h3 style="font-weight: 500">👨‍💻 About me:</h3 style="font-weight: 500">
-    <ul>
-        <li>
-            ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
-        </li>
-        <li>
-            ➡️ For start my path as Software Engineer I needed to look for something that could help me on this long way, then I found Driven, the name explains itself, they guided me into my goal and taught me a lot.
-        </li>
-    </ul>
-</div>
-
-<hr/>
-
-<div align="center" style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
-    <div style="width:100%; display:flex">
-        <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
-        <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
-    </div>
-    <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="300"></img>
-</div>
-
-
