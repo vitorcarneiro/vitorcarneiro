@@ -28,7 +28,7 @@
             <br>
             <br>
     </samp>
-    <img src="https://i.gifer.com/Z23b.gif" alt="spotify">
+    <img src="./images/duck.gif" alt="duck" height="100px">
 </p>
 
 <details align="center">
