@@ -141,7 +141,7 @@
 <hr/>
 
 <h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a
     href="https://wa.me/5541999842243?text=Hello%20Vitor,%20I%20saw%20your%20github%20profile" 
     alt="WhatsApp"
@@ -172,7 +172,7 @@
 </a>
 
 <h3 style="font-weight: 500">🔴 Status:</h3 style="font-weight: 500">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a
     href="https://github.com/vitorcarneiro" 
     alt="visitors"
