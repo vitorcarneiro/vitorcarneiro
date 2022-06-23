@@ -35,7 +35,7 @@
 <br>
 
 <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
+    <summary> <samp>&#9776; More [click here]</samp></summary>
     <div align="left">
         <h3 style="font-weight: 500">👨‍💻 About me:</h3 style="font-weight: 500">
         <ul>
