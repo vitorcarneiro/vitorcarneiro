@@ -1,4 +1,4 @@
-<h2 style="font-weight: 500; margin-right: 10px">
+<h2 style="font-weight: 500; border: 0; padding: 0">
     Hello, I'm Vitor...
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 </h2>
@@ -11,7 +11,7 @@
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Languages:</h3 style="font-weight: 500">
             <a href="https://www.typescriptlang.org/" target="_blank">
-                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="border-radius: 8% !important; height: 25px"/>
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="border-radius: 8%; height: 25px"/>
             </a>
             <a href="https://www.javascript.com" target="_blank">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="border-radius: 8%; height: 25px"/>
