@@ -1,4 +1,4 @@
-<h2 style="font-weight: 500; border: 0; padding: 0; border-bottom: 2px solid var(--color-border-muted);">
+<h2 style="font-weight: 500; border: 0; padding: 0; border-bottom: 2px solid white;">
     Hello, I'm Vitor...
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
 </h2>
