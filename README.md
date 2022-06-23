@@ -28,8 +28,8 @@
             <br>
             <br>
     </samp>
-    <img src="https://i.gifer.com/Vp3L.gif" alt="line gif"/>
 </p>
+<img src="https://i.gifer.com/Vp3L.gif" alt="line gif"/>
 
 <details align="center">
     <summary> <samp>&#9776; More [click here]</samp></summary>
