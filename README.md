@@ -30,7 +30,7 @@
     </samp>
 </p>
 
-![line gif](https://i.gifer.com/Vp3L.gif)
+<img src="https://gpvc.arturio.dev/vitorcarneiro" />
 
 <details align="center">
     <summary> <samp>&#9776; More [click here]</samp></summary>
