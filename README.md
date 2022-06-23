@@ -20,19 +20,16 @@
         </samp>
 </h3>
 
-<br>
-
 <p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「 Simplicity is the soul of efficiency 」
-                <br>
-                「 I am a full-stack developer living in Curitiba, Brazil 」
-                <br>
-                <br>
-        </samp>
+    <samp>
+            「 Simplicity is the soul of efficiency 」
+            <br>
+            「 I am a full-stack developer living in Curitiba, Brazil 」
+            <br>
+            <br>
+    </samp>
+    <img src="https://i.gifer.com/Vp3L.gif" alt="line gif" style="height: 20px; width: 100%"/>
 </p>
-<br>
 
 <details align="center">
     <summary> <samp>&#9776; More [click here]</samp></summary>
