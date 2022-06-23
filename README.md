@@ -56,6 +56,16 @@
     </div>
 </details>
 
+<br>
+
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
+
 <hr/>
 
 <h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
