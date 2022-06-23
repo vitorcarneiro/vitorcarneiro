@@ -13,13 +13,25 @@
 </a>
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, I'm
                 <b><a target="_blank" href="https://www.linkedin.com/in/vitor-csdo/">Vitor Carneiro</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
                 </b>
         </samp>
 </h3>
 
+<br>
+
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 Simplicity is the soul of efficiency 」
+                <br>
+                「 I am a full-stack developer living in Curitiba, Brazil 」
+                <br>
+                <br>
+        </samp>
+</p>
 <br>
 
 <details align="center">
