@@ -28,7 +28,7 @@
             <br>
             <br>
     </samp>
-    <img src="https://i.gifer.com/Vp3L.gif" alt="line gif" style="height: 40px; width: 100%"/>
+    <img src="https://i.gifer.com/Vp3L.gif" alt="line gif" style="height: 100px; width: 100%"/>
 </p>
 
 <details align="center">
